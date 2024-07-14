@@ -188,11 +188,6 @@ class _CustomTopNavigatorState extends State<CustomTopNavigator>
     throw UnimplementedError();
   }
 
-  @override
-  Future<AppExitResponse> didRequestAppExit() {
-    // TODO: implement didRequestAppExit
-    throw UnimplementedError();
-  }
 }
 
 class PageRoutes {
